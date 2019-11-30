@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+person:
+  name: zmm
+  age: 30
+logging:
+  level:
+    com:
+      example:
+        demo: debug
